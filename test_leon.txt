@@ -2,3 +2,4 @@ BDIKA
 
 
 bdika shnia
+bdika shlishit main

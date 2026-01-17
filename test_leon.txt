@@ -2,10 +2,9 @@ BDIKA
 
 
 bdika shnia
-<<<<<<< HEAD
+
 bdika shlishit main
-=======
+
 bdika reviit 
 
-    
->>>>>>> dcb1d3504f168b488cd9ac897da4739222c9422f
+
